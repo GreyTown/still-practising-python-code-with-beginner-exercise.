@@ -14,7 +14,7 @@ else:
 	quit()
 
 random_number = random.randrange(0,top_of_range)
-print(random_number)
+#print(random_number)
 
 while True:
 	guesses += 1
